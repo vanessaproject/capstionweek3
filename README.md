@@ -1,2 +1,2 @@
-# capstionweek3
+# Capstone
 data science capstone assignment 
